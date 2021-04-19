@@ -8,7 +8,7 @@ class Mahasiswa extends CI_Controller
 	public function index()
 	{
 		
-		$this->load->view('index1');
+		$this->load->view('index');
 	}
 
 	public function tambah()
